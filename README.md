@@ -8,8 +8,8 @@
 | yeast| biology | 2417	 |0|103	|14|4.237|0.303	|198|
 
 ## Evaluation
-|evaluation criterion |plst | cplst|ECC|PCC(效果很差)|
-|---|---|---|---|---|
+|evaluation criterion |plst | cplst|
+|---|---|---|
 |hamming loss|
 |ranking loss|
 |one error|
